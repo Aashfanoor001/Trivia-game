@@ -1,0 +1,60 @@
+Which animal is known as ship of desert?
+Bear
+Loin
+Camel
+Snake
+3
+How many days are there in week?
+7 Days
+8 Days
+9 Days
+6 Days
+1
+How many hours are there in day?
+21 hours
+22 hours
+23 hours
+24 hours
+4
+How many letters are there in english alphabets?
+25
+26
+30
+32
+2
+How many minutes are there in hour?
+50 minutes
+30 minutes
+70 minutes
+60 minutes
+4
+Name of house made of ice? 
+Igloo
+Hut
+Tent
+Castle
+1
+How many sides are there in triangle?
+4
+3
+5
+6
+2
+Which is the tallest mountain in world?
+Nanga Parbat
+K2
+Mount Everest
+Manaslu
+3
+How many milimeters are there in 1cm?
+5
+10
+15
+20
+2
+What do you call a type of shape that has five sides?
+Circle
+Pentagon
+Square
+Rectangle
+2
